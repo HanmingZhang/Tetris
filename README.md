@@ -1,6 +1,6 @@
 # Tetris
 
-It's a simple Tetris game by wxPython
+It's a simple Tetris game written by wxPython
 
 You have to install python and wxPython first. For more information about wxPython, find here https://wxpython.org/
 
