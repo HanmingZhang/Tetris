@@ -4,6 +4,7 @@ It's a simple Tetris game written by wxPython
 
 You have to install python and wxPython first. For more information about wxPython, find here https://wxpython.org/
 
+[Test link](www.google.com)
 
 Control Method:
 
